@@ -1,5 +1,9 @@
 # eDNA-protocols
+<<<<<<< HEAD
 Protocols for sampling, processing, and analysis of eDNA collected on CalCOFI cruises as part of the [West Coast OBON](https://evsatt.github.io/WC-OBON_Website/) sampling effort. All protocols are formatted according to guidelines from Better Biomolecular Ocean Practices (BeBOP) using [Minimum Information about an Omics Protocol (MIOP)](https://github.com/BeBOP-OBON/miop/tree/main) and [FAIR eDNA](https://fair-edna.github.io/) (FAIRe) terms.
+=======
+Protocols for sampling, processing, and analysis of eDNA collected on CalCOFI cruises as part of the [West Coast OBON](https://evsatt.github.io/WC-OBON_Website/) sampling effort. All protocols are formatted according to guidelines from Better Biomolecular Ocean Practices (BeBOP) using [Minimum Information about an Omics Protocol (MIOP)](https://github.com/BeBOP-OBON/miop/tree/main) and [FAIR eDNA (FAIRe)](https://fair-edna.github.io) terms.
+>>>>>>> 2ec00af (Added link to MOSAIC Underway Sampling protocol)
 
 ## Sample collection
 
@@ -7,11 +11,15 @@ Protocols for sampling, processing, and analysis of eDNA collected on CalCOFI cr
 
 [Archived eDNA Sampling](https://github.com/CalCOFI/Archived-eDNA-Sampling)
 
+<<<<<<< HEAD
 #### MOSAIC: Sampling from ship's underway water system (coming soon!)
 
 #### MOSAIC: Sampling from the CTD (coming soon!)
+=======
+[MOSAIC Underway Sampling] (https://github.com/CalCOFI/MOSAIC_Underway_Sampling)
+>>>>>>> 2ec00af (Added link to MOSAIC Underway Sampling protocol)
 
-#### Cleaning protocol for sampling materials
+#### Coming soon: MOSAIC CTD Sampling
 
 ## DNA Extraction
 [Phenol:chloroform Extraction from Membrane Filters](https://github.com/CalCOFI/Membrane-phenol-DNA-extraction)
