@@ -1,6 +1,5 @@
 # eDNA-protocols
 
-=======
 Protocols for sampling, processing, and analysis of eDNA collected on CalCOFI cruises as part of the [West Coast OBON](https://evsatt.github.io/WC-OBON_Website/) sampling effort. All protocols are formatted according to guidelines from Better Biomolecular Ocean Practices (BeBOP) using [Minimum Information about an Omics Protocol (MIOP)](https://github.com/BeBOP-OBON/miop/tree/main) and [FAIR eDNA (FAIRe)](https://fair-edna.github.io) terms.
 
 ## Sample collection
