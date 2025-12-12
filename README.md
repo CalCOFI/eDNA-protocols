@@ -9,10 +9,14 @@ Protocols for sampling, processing, and analysis of eDNA collected on CalCOFI cr
 
 [RREAS sampling protocol from Niskin bottles](https://github.com/CalCOFI/eDNA_sampling_RREAS)
 
+<<<<<<< HEAD
 [Archived eDNA Sampling](https://github.com/CalCOFI/Archived-eDNA-Sampling)
 
 <<<<<<< HEAD
 #### MOSAIC: Sampling from ship's underway water system (coming soon!)
+=======
+#### Sampling from ship's underway water system
+>>>>>>> parent of 1d39a52 (Added link to Archived eDNA Sampling protocol)
 
 #### MOSAIC: Sampling from the CTD (coming soon!)
 =======
