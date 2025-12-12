@@ -9,12 +9,9 @@ Protocols for sampling, processing, and analysis of eDNA collected on CalCOFI cr
 
 [Archived eDNA Sampling](https://github.com/CalCOFI/Archived-eDNA-Sampling)
 
-[MOSAIC Underway Sampling] (https://github.com/CalCOFI/MOSAIC_Underway_Sampling)
+[MOSAIC Underway Sampling](https://github.com/CalCOFI/MOSAIC_Underway_Sampling)
 
 #### Coming soon: MOSAIC CTD Sampling
-
-=======
-
 
 ## DNA Extraction
 [Phenol:chloroform Extraction from Membrane Filters](https://github.com/CalCOFI/Membrane-phenol-DNA-extraction)
